@@ -1,6 +1,5 @@
 const hourMessage = () => {
-
-  return "Good night"
+  return "Good evening";
 };
 
 module.exports = hourMessage;
