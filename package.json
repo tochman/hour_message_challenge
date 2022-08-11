@@ -11,6 +11,6 @@
     "sinon-chai": "3.7.0"
   },
   "scripts": {
-    "test": "mocha --file specs/specHelper.js -u bdd-lazy-var/global --recursive --exit specs"
+    "test": "mocha --file specs/specHelper.js -u bdd-lazy-var/global --recursive --watch specs"
   }
 }
